@@ -13,6 +13,7 @@ I plan to continue building features into the app. I’ll create a separate repo
 
 ###### Authentication (likely using Firebase auth)
 ###### Image sort -- allow sorting images based on: Project, Location, Date
+###### Delete images
 ###### Image map -- plot location on Google map using location metadata from image 
 ###### Inspiration gallery -- show other users images 
 
