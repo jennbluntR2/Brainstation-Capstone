@@ -2,7 +2,7 @@
 
 ### This was my final project at BrainStation.
 
-I created SKOUTi as a tool for Photographers and Film Makers to organize images for location scouting. 
+I created SKAUTi as a tool for Photographers and Film Makers to organize images for location scouting. 
 
 I used Firebase Storage for the image storage, and FireStore Cloud Database to store the details for each image (including the URL for the image in storage). The app was built using ReactJS.
 
